@@ -1,14 +1,15 @@
 # What's in the box!
 
 ## Sensors
-![Sensors](./images/sensors.jpg =300x)
-![Environmental Sensor](./images/environmental-sensor.jpg =300x)
-![Sonar](./images/hc-sr04.jpg =300x)
-![Motion Sensor](./images/motion-sensor.jpg =300x)
-![Time of Flight Sensor](./images/tof.jpg =300x)
-![UV Sensor](./images/uv-sensor.jpg =300x)
-![Breakout](./images/breakout.jpg =300x)
+
+<img src="./images/sensors.jpg" width="480">
+<img src="./images/environmental-sensor.jpg" width="480">
+<img src="./images/hc-sr04.jpg" width="480">
+<img src="./images/motion-sensor.jpg" width="480">
+<img src="./images/tof.jpg" width="480">
+<img src="./images/uv-sensor.jpg" width="480">
+<img src="./images/breakout.jpg" width="480">
 
 ## Modem
-![Modem](./images/stm32.jpg =300x)
-![](./images/sl_e234156.png =300x)
+<img src="./images/stm32.jpg" width="480">
+<img src="./images/sl_e234156.png" width="480">
